@@ -1,8 +1,6 @@
 # devops-ci-demo
 
 
-> 這個 repo 刻意保持單純（沒有 Docker / K8S / 部署）。完整的 build → push → 部署 pipeline 在另一個 repo [`devops-demo`](https://github.com/4-learn/devops-demo)，那是 ch5/ch6 用的。
-
 ## 跑法
 
     pip install -r requirements.txt
